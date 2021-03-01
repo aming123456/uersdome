@@ -24,18 +24,6 @@ html,body {
     background: url(../images/login_title.png) no-repeat center;
 }
 
-/* .head-4{
-    display: none;
-} */
-
-.layui-input {
-    float: left;
-}
-
-#link_reg {
-    float: right;
-}
-
 .layui-form-item {
     position: relative;
 }
@@ -56,4 +44,14 @@ html,body {
   .userinp{
     margin-left:0;
     position:unset
+  }
+  #zhucequ{
+      /* overflow: hidden; */
+      display: none;
+  }
+  #link_reg{
+      float: right;
+  }
+  #link_r{
+      float: right;
   }
