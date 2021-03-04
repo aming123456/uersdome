@@ -1,0 +1,40 @@
+.iconfont{
+    margin-right: 8px;
+}
+.layui-icon{
+    margin-right: 8px;
+}
+/* 点首页是跳转到iframe 所以要在它重设置 */
+iframe{
+    width: 100%;
+    height: 100%;
+}
+.shouye{
+    overflow: hidden;
+}
+/* a{
+    transition: none !important;
+} */
+.userinfo{
+    margin-top: 10px;
+   height: 60px;
+   line-height: 60px;
+    text-align: center;
+}
+.userinfo a{
+    color: #fff;
+}
+.touxiang{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: blue;
+    line-height: 35px;
+    text-align: center;
+    margin-right: 8px;
+}
+.text-img{
+    width: 35px;
+    height: 35px;
+}

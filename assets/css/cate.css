@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkgray;
+}
+.layui-card{
+    margin-top: 15px;
+}
+#btntianj{
+    float: right;
+}
+#btn-tij,#btn-chongz{
+    text-align: center;
+}

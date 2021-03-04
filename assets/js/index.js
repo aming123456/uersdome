@@ -84,8 +84,8 @@ $(function(){
                 return layer.msg('登录失败')
             }
             layer.msg('登陆成功')
-            localStorage.setItem('toke',res.toke)
-            location.herf='/index.html'
+            localStorage.setItem('token',res.token)
+            location.href ='/login.html'
         })
     })
 
